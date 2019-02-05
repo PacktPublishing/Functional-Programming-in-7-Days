@@ -10,12 +10,12 @@ This fast-paced actionable guide offers seven 30-minute lessons, each followed b
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Discover common attacks on web applications such as XSS and CSRF and ways to mitigate them. 
-<LI>Rate-limit your APIs to prevent abuse. 
-<LI>Build a user registration, login, and password reset flow. 
-<LI>Add two-factor authentication to let security conscious users further protect themselves. 
-<LI>How to do passwordless authentication via magic links in emails. 
-<LI>How OAuth and OpenID allow you to authenticate users via third-party services. </LI></UL></DIV>
+<LI>Use built-in libraries to implement higher order functions. 
+<LI>Implement decorators and other optimizations to avoid wasting memory in application development.
+<LI>Identify common functional design patterns and know how these apply to Python.
+<LI>Perform computation using monads and functors. 
+<LI>Get a good grip over functional programming concepts like currying, functional composition, etc. 
+</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
